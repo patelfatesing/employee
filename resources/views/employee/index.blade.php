@@ -14,11 +14,11 @@
         <a class="r_btn" href="{{ url('employees/create') }}">Create Employee</a>
     </div><!-- End Page Title -->
     <div class="pagetitle">
-        <h1>Dashboard</h1>
+        <h1>Employees List</h1>
         <nav>
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="{{ url('employees') }}">Home</a></li>
-                <li class="breadcrumb-item active">Dashboard</li>
+                <li class="breadcrumb-item active">Employees List</li>
             </ol>
 
         </nav>
@@ -33,7 +33,7 @@
 
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Datatables</h5>
+                        <h5 class="card-title">Employees List</h5>
 
 
                         <!-- Table with stripped rows -->
